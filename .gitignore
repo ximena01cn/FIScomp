@@ -1,0 +1,3 @@
+## creamos este fichero con type nul > .gitignore con punto al incio para que fuera oculto
+## aqui vamos a poner los ficheros que queremos que se ignoren 
+**/.desktop.ini  
